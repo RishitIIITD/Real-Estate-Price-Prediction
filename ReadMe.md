@@ -63,7 +63,7 @@ location /api/ {
 python server.py
 ```
 
--> Then, run the nginx server
+-> Then, run the nginx server from the ProgramFiles
 
 -> Go to your browser of choice and type:
 
@@ -75,7 +75,7 @@ python server.py
 
 -> Run your python flask server
 
--> Run your nginx server
+-> Run your nginx server from the ProgramFiles
 
 -> Type: ```localhost``` in your browser
 
